@@ -56,6 +56,8 @@ Communication REST : toutes les données sont récupérées depuis l’API Sprin
 
 ![img_3.png](img_3.png)
 
+![img_4.png](img_4.png)
+
 ### 5. Conclusion
 
 Ce client Angular fournit une interface moderne et interactive pour gérer les comptes bancaires via l’API Spring Boot. Grâce aux composants modulaires, services Angular et HttpClient, il permet de consulter et manipuler les données en temps réel. Le projet est conçu pour être extensible et facilement intégrable avec d’autres services REST.
